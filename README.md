@@ -1,10 +1,10 @@
 # threats checker
 
-# 🔐 threats checker – PowerShell Script
+# threats checker – PowerShell Script
 
 This PowerShell script performs a quick system security audit on a Windows machine, helping identify potential threats or anomalies.
 
-## 📋 Features
+## Features
 
 - **Startup Programs**
   - Lists all programs configured to launch at startup.
@@ -25,7 +25,7 @@ This PowerShell script performs a quick system security audit on a Windows machi
 - **Active Remote Desktop Sessions**
   - Lists currently connected RDP sessions using the `query session` command.
 
-## ▶️ Usage
+## Usage
 
 1. Open PowerShell **as Administrator**.
 2. Run the script:
